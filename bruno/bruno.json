@@ -1,0 +1,6 @@
+{
+  "version": "1",
+  "name": "High Load Sandbox",
+  "type": "collection",
+  "ignore": ["node_modules", ".git"]
+}

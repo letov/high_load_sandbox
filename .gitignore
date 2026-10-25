@@ -1,0 +1,7 @@
+.idea/
+*.iml
+/bin/
+*.log
+.DS_Store
+.postman/
+/vendor/
